@@ -8,10 +8,11 @@
     "react-select",
     "select"
   ],
-  "main": "./lib/index",
+  "main": "index.js",
   "files": [
     "assets/*.css",
-    "lib"
+    "src",
+    "index.js"
   ],
   "homepage": "http://github.com/react-component/select",
   "repository": {
